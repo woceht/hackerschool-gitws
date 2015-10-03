@@ -13,3 +13,18 @@ mkdir [directory-name]
 touch [file.extension]
 	create new file with name [file.extension]
 
+git init
+	create a new git repository
+
+git status
+	check status of working directory
+
+git add [file]
+	Tells git to start tracking a specific [file]
+
+git commit -m 'MESSAGE'
+	Commits changes into repository with comment
+
+git log
+	Shows all commits
+
