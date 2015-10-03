@@ -28,3 +28,8 @@ git commit -m 'MESSAGE'
 git log
 	Shows all commits
 
+git log --oneline
+	Shows each commit on one line
+
+
+
