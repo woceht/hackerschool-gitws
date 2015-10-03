@@ -45,5 +45,5 @@ git branch [branchname]
 git checkout [branchname]
 	switch to [branchname]
 
-
-
+git merge [branchname]
+	merge changes on [branchname] into current branch
