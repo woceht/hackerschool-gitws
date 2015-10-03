@@ -50,3 +50,9 @@ git merge [branchname]
 
 git checkout [commitID]
 	switch to [commitID] 
+
+git revert [commitID]
+	reverses [commitID]
+
+git reset --hard 
+	Resets the working directory
