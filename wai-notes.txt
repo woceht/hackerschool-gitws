@@ -31,5 +31,7 @@ git log
 git log --oneline
 	Shows each commit on one line
 
+git diff
+	shows us what has changed between our working directory and staging area
 
 
