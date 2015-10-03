@@ -34,4 +34,14 @@ git log --oneline
 git diff
 	shows us what has changed between our working directory and staging area
 
+git branch
+	lists all branches in repository
+
+git branch [branchname]
+	create new branch with [branchname]
+
+git checkout [branchname]
+	switch to [branchname]
+
+
 
